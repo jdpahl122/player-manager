@@ -1,6 +1,6 @@
 # README
 
-Player Manager is an applicatin to allow for the management and planning of players for a fantasy football league.
+Player Manager allows for the management and planning of players for a fantasy football league.
 
 The overall idea behind this app is demonstrated in the following diagram: 
 
